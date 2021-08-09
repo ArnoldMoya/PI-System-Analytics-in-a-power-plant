@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
 Written by AM
 """
 
